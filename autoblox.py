@@ -3,7 +3,7 @@ import pyautogui
 from sys import platform
 
 #change the path in the first argument to the path of your source file
-source = open('/home/you/that folder/that sub-folder/that file.js', 'r')
+source = open('/home/you/that folder/that sub-folder/that file.py', 'r')
 #add the string #------ beneath each block of text you want to separate
 blocks = source.read().split('#------')
 #total length of video. loop below will divide this by the number of blocks
@@ -14,7 +14,7 @@ scrollFactor = 100
 for i in range(len(blocks)):
     time.sleep(videoLength*60/len(blocks))
     pyautogui.scroll(-len(blocks[i])//scrollFactor)
-    destination = open('/home/you/destination file.js', 'a')
+    destination = open('/home/you/destination file.py', 'a')
     destination.write(blocks[i])
     destination.close()
 
