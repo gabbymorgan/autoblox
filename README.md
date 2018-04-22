@@ -1,2 +1,2 @@
 # autoblox
-Automated text insertion and scrolling. A great tool for rendering text for presentations and instructional videos.
+Automated text insertion and scrolling. It's like an autopilot for creating instructional videos. Set it and walk away, then add your voice later. Or split up the sleep time and add an alarm for live presentations. 
