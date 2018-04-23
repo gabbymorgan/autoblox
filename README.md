@@ -1,8 +1,6 @@
 # autoblox
 Automated text insertion and scrolling. It's like an autopilot for creating instructional videos. Set it and walk away, then add your voice later. Or split up the sleep time and add an alarm for live presentations. 
 
-Be sure and import the necessary dependencies with pip before running, or else you will simply get an error. To install pyautogui for Linux and MacOS, you will need to follow the instructions per https://automatetheboringstuff.com/chapter18/The pyautogui module can send virtual keypresses and mouse clicks to Windows, OS X, and Linux. Depending on which operating system you’re using, you may have to install some other modules (called dependencies) before you can install PyAutoGUI.
-
 
 ###Installation
 
