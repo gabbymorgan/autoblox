@@ -11,7 +11,8 @@ On OS X
 sudo pip3 install pyobjc-core
 sudo pip3 install pyobjc
 run pip install pyautogui
-python *PATH*```
+python *PATH*
+```
 
 On Linux
 ```sudo apt-get install sox
@@ -20,9 +21,11 @@ sudo apt-get install scrot
 sudo apt-get install python3-tk
 sudo apt-get install python3-dev
 run pip install pyautogui
-python *PATH*```
+python *PATH*
+```
 
 On Windows
 ```sudo pip3 install winsound
 sudo pip install pyautogui
-python *PATH*```
+python *PATH*
+```
