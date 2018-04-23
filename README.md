@@ -30,3 +30,5 @@ sudo pip3 install winsound
 sudo pip install pyautogui
 python *PATH*
 ```
+## Example
+https://www.youtube.com/watch?v=HDpzzX5Y-bk
