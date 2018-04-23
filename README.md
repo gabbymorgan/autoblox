@@ -7,7 +7,8 @@ Be sure and import the necessary dependencies with pip before running, or else y
 ###Installation
 
 On OS X 
-```sudo pip3 install pyobjc-framework-Quartz
+```
+sudo pip3 install pyobjc-framework-Quartz
 sudo pip3 install pyobjc-core
 sudo pip3 install pyobjc
 run pip install pyautogui
@@ -15,7 +16,8 @@ python *PATH*
 ```
 
 On Linux
-```sudo apt-get install sox
+```
+sudo apt-get install sox
 sudo pip3 install python3-xlib
 sudo apt-get install scrot
 sudo apt-get install python3-tk
@@ -25,7 +27,8 @@ python *PATH*
 ```
 
 On Windows
-```sudo pip3 install winsound
+```
+sudo pip3 install winsound
 sudo pip install pyautogui
 python *PATH*
 ```
